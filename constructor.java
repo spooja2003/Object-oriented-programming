@@ -11,7 +11,7 @@ class addition {
 	
 }
 }
-public class constrr {
+public class constructor {
 
 	public static void main(String[] args) {
 		shape s1=new shape();
